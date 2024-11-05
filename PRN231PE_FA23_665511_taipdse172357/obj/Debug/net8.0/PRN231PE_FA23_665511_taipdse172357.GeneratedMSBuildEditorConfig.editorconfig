@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRN231PE_FA23_665511_taipdse172357
+build_property.RootNamespace = PRN231PE_FA23_665511_taipdse172357
+build_property.ProjectDir = C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\PRN231_Assignment1\PRN231PE_FA23_665511_taipdse172357\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\PRN231_Assignment1\PRN231PE_FA23_665511_taipdse172357
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/Desktop/PRN231/Assignment/PRN231PE_FA23_665511_taipdse172357/PRN231_Assignment1/PRN231PE_FA23_665511_taipdse172357/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRN231/Assignment/PRN231PE_FA23_665511_taipdse172357/PRN231_Assignment1/PRN231PE_FA23_665511_taipdse172357/Views/SilverJewelries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lsdmVySmV3ZWxyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRN231/Assignment/PRN231PE_FA23_665511_taipdse172357/PRN231_Assignment1/PRN231PE_FA23_665511_taipdse172357/Views/SilverJewelries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lsdmVySmV3ZWxyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRN231/Assignment/PRN231PE_FA23_665511_taipdse172357/PRN231_Assignment1/PRN231PE_FA23_665511_taipdse172357/Views/SilverJewelries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lsdmVySmV3ZWxyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRN231/Assignment/PRN231PE_FA23_665511_taipdse172357/PRN231_Assignment1/PRN231PE_FA23_665511_taipdse172357/Views/SilverJewelries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lsdmVySmV3ZWxyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRN231/Assignment/PRN231PE_FA23_665511_taipdse172357/PRN231_Assignment1/PRN231PE_FA23_665511_taipdse172357/Views/SilverJewelries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lsdmVySmV3ZWxyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

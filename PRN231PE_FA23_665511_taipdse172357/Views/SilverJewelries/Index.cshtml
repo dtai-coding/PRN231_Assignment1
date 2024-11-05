@@ -1,0 +1,71 @@
+﻿@model IEnumerable<BOs.SilverJewelry>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SilverJewelryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SilverJewelryDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MetalWeight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductionYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SilverJewelryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SilverJewelryDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MetalWeight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductionYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.SilverJewelryId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.SilverJewelryId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.SilverJewelryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

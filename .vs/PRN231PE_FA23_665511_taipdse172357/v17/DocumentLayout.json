@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357\\controllers\\silverjewelriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357\\controllers\\silverjewelriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A41EB22-B45C-480E-AD95-4E659371E849}|Repository\\Repository.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A41EB22-B45C-480E-AD95-4E659371E849}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11D88CAE-12E3-424B-9F1D-EA1D73B648A8}|PRN231PE_FA23_665511_taipdse172357\\PRN231PE_FA23_665511_taipdse172357.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|c:\\users\\admin\\desktop\\prn231\\assignment\\prn231pe_fa23_665511_taipdse172357\\prn231_assignment1\\prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B2F54E-92EB-4163-944B-E69AE165BE20}|PRN231PE_FA23_665511_taipdse172357_fe\\PRN231PE_FA23_665511_taipdse172357_fe.csproj|solutionrelative:prn231pe_fa23_665511_taipdse172357_fe\\pages\\silverjewelrypages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 295,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\LoginDTO.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:07:49.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\appsettings.json",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T14:38:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\Program.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\Program.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:00:22.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T14:00:14.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T13:50:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SilverJewelriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\Controllers\\SilverJewelriesController.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357\\Controllers\\SilverJewelriesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\Controllers\\SilverJewelriesController.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357\\Controllers\\SilverJewelriesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:48:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:48:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:43:34.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:43:32.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:31:20.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:31:17.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:50:33.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwB0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:45:49.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PRN231\\Assignment\\PRN231PE_FA23_665511_taipdse172357\\PRN231_Assignment1\\PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml.cs",
+              "RelativeToolTip": "PRN231PE_FA23_665511_taipdse172357_fe\\Pages\\SilverJewelryPages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:41:50.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\bin\Debug\net8.0\BOs.deps.json
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\bin\Debug\net8.0\BOs.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\bin\Debug\net8.0\BOs.dll
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\bin\Debug\net8.0\BOs.pdb
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.dll
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\refint\BOs.dll
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.pdb
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\BOs.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PRN231\Assignment\PRN231PE_FA23_665511_taipdse172357\BOs\obj\Debug\net8.0\ref\BOs.dll

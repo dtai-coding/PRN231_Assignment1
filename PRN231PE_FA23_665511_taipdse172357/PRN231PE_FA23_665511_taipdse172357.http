@@ -1,0 +1,6 @@
+@PRN231PE_FA23_665511_taipdse172357_HostAddress = http://localhost:5064
+
+GET {{PRN231PE_FA23_665511_taipdse172357_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
